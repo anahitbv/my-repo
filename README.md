@@ -1,3 +1,3 @@
-Changes in feature branch
-Changes in master branch
+
 Changes in feature-branch
+Change made in feature branch
