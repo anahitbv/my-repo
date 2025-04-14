@@ -1,6 +1,6 @@
 import { faker } from '@faker-js/faker';
 
-describe('Cypress 2: Automation Scenario Practice', () => {
+describe(' Automation Scenario Practice', () => {
   it('should complete the full purchase flow with Faker', () => {
     cy.visit('https://rahulshettyacademy.com/seleniumPractise/#/');
 
